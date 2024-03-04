@@ -1,5 +1,4 @@
 # LanDeLey
-
 Fun creative repositories to learn new technologies, shared between:
 
 Andre Santiago Correia:
